@@ -22,3 +22,13 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 
 ```
+![](IMG_2432.jpeg)
+
+|Name |Age |Class |Course |
+|-----|----|------|--------|
+|Boluwatife|17 years|100 level|Medical Lab Science|
+|Oluwabukunmi|17 years|100 level|Medicine|
+|Oluwashinaayomi|17 years|100 level|Food Science Technology|
+|Oluwadamilare|17 years|100 level|Biotechnology|
+|Jeffery|16 years|100 level|Pharmacy|
+|Miracle|18 years|100 level|Mechanical Engineering|
