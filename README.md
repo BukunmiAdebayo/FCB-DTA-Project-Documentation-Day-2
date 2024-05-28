@@ -10,3 +10,4 @@ The primary data source used is Data Sale.csv and this is an open source of data
 - Microsoft Excel for Data Cleaning [Download Here](https://microsoft.com)
 - Microsoft Power BI
 - SQL
+- Python 
