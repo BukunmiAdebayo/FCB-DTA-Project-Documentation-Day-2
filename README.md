@@ -24,11 +24,13 @@ WHERE CONDITION = MET
 ```
 ![](IMG_2432.jpeg)
 
-|Name |Age |Class |Course |
-|-----|----|------|--------|
-|Boluwatife|17 years|100 level|Medical Lab Science|
-|Oluwabukunmi|17 years|100 level|Medicine|
-|Oluwashinaayomi|17 years|100 level|Food Science Technology|
-|Oluwadamilare|17 years|100 level|Biotechnology|
-|Jeffery|16 years|100 level|Pharmacy|
-|Miracle|18 years|100 level|Mechanical Engineering|
+|**SN**|**Name** |**Age** |**Class** |**Course** |**Gender**|
+|------|-----|----|------|--------|-----|
+|**1.**|Boluwatife|17 years|100 level|Medical Lab Science|Male|
+|**2.**|Oluwabukunmi|17 years|100 level|Medicine|Male|
+|**3.**|Oluwashinaayomi|17 years|100 level|Food Science Technology|Female|
+|**4.**|Oluwadamilare|17 years|100 level|Biotechnology|Female|
+|**5.**|Jeffery|16 years|100 level|Pharmacy|Male|
+|**6.**|Miracle|18 years|100 level|Mechanical Engineering|Male|
+|**7.**|Feranmi|18 years|100 level|Nursing Science|Male|
+|**8.**|Blessing|18 years|100 level|Food Science Technology|Male|
